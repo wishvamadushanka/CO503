@@ -1,0 +1,28 @@
+!SESSION 2022-10-30 21:52:40.936 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-30 21:54:17.525
+!MESSAGE Indexed 'counter_bsp' (81 sources, 60 headers) in 0.78 sec: 952 declarations; 2,340 references; 117 unresolved inclusions; 5 syntax errors; 199 unresolved names (5.70%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-30 21:54:20.781
+!MESSAGE Indexed 'counter' (0 sources, 13 headers) in 0.01 sec: 0 declarations; 0 references; 13 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2022-10-30 22:09:48.502
+!MESSAGE Executing: [C:/altera/12.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x81030 --id=0x0 --timestamp=1667136265]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2022-10-30 22:09:50.922
+!MESSAGE Executing: [C:/altera/12.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x81030 --id=0x0 --timestamp=1667136265 /cygdrive/e/aca/com/8_sem/CO503/Lab1/software/counter/counter.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2022-10-30 22:13:09.513
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2022-10-30 22:13:10.131
+!MESSAGE Executing: [C:/altera/12.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x81030 --id=0x0 --timestamp=1667136265]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2022-10-30 22:13:12.456
+!MESSAGE Executing: [C:/altera/12.1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x81030 --id=0x0 --timestamp=1667136265 /cygdrive/e/aca/com/8_sem/CO503/Lab1/software/counter/counter.elf]

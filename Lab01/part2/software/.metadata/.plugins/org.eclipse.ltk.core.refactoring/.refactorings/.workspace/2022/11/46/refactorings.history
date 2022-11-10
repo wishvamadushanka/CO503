@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete 2 resources" deleteContents="false" description="Delete 2 resources" element1="/JPEG_Encoder/bmp_extract.h" element2="/JPEG_Encoder/jpeg_encoding.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1667721163385"/>&#x0A;<refactoring comment="Delete resource &apos;JPEG_Encoder/JPEG_Encoder.rar&apos;" deleteContents="false" description="Delete resource &apos;JPEG_Encoder/JPEG_Encoder.rar&apos;" element1="/JPEG_Encoder/JPEG_Encoder.rar" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1667721308310"/>
+</session>

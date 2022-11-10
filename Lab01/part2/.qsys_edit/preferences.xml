@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable>
+  <columns>
+   <connections preferredWidth="191" />
+   <irq preferredWidth="34" />
+   <name preferredWidth="202" />
+  </columns>
+ </systemtable>
+ <clocktable>
+  <columns>
+   <clockname preferredWidth="548" />
+   <clocksource preferredWidth="547" />
+   <frequency preferredWidth="529" />
+  </columns>
+ </clocktable>
+ <library
+   expandedCategories="Library/Bridges/Memory-Mapped,Library,Library/Bridges,Project" />
+ <window width="1920" height="1020" x="-9" y="-9" />
+ <hdlexample language="VERILOG" />
+</preferences>
